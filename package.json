@@ -9,6 +9,9 @@
   "license": "MIT",
   "private": false,
   "peerDependencies": {
-    "expo": ">=20"
+    "expo": ">=33"
+  },
+  "dependencies": {
+    "expo-secure-store": "^5.0.1"
   }
 }
